@@ -2,53 +2,53 @@
 
 [EN](./tester-telegram-wallet-testnet.md) | [IT](./tester-telegram-wallet-testnet_it.md)
 
-Testa il BitSong Telegram Wallet [TODO: link], scopri bug, apri issues, suggerisci nuove funzionalità.
+Test the BitSong Telegram Wallet [TODO: link], discover bugs, open issues, suggest new features.
 
-**Da provare**
-L'obiettivo è di provare attivamente tutte le varie funzioni, tipo Wallet, Staking, Governance, IBC...
-I candidati devono essere attivi ed avere un utilizzo regolare e quotidiano. E' inoltre necessario partecipare al gruppo Discord e segnalare i vari bug riscontrati e/o discutere nuove funzionalità con i developers.
+**To try**
+The goal is to actively test all the various functions, such as Wallet, Staking, Governance, IBC ...
+Candidates must be active and have regular and daily use. It is also necessary to participate in the Discord group and report the various bugs encountered and/or discuss new features with the developers.
 
-## Qualificazione
+## Qualification
 
-- Creare o importare un account tramite il bot [TODO: link]
-- Non eliminare l'account dal bot sino al completamento del contest
-- Provare tutte le funzioni disponibili
-- Aprire issue su github per nuovi suggerimenti
-- Aprire issue su github per segnalazione bug
+- Create or import an account via the bot [TODO: link]
+- Do not delete the account from the bot until the contest is completed
+- Try all available functions
+- Open issue on github for new suggestions
+- Open issue on github for bug report
 
-## Partecipanti
+## Participants
 
-- Max 20 persone
-- Saranno selezioni i primi 20 iscritti **First Come First Served**
+- Max 20 people
+- The first 20 registered members will be selected **First Come First Served**
 
-## Premi
+## Awards
 
-- Premio totale: `20 000btsg`
-- Premio per partecipante (approvato): `1 000btsg`
+- Total prize: `20 000btsg`
+- Prize per participant (approved): `1 000btsg`
 
-## Inizio e termine
+## Start and End
 
-[31 Ottobre 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191031T00&p0=1440&msg=Inizio+registrazioni&font=sanserif&csz=1) - [30 Novembre 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191130T235959&p0=1440&msg=Fine+submission&font=sanserif&csz=1)
+[31st October 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191031T00&p0=1440&msg=Inizio+registrazioni&font=sanserif&csz=1) - [30th November 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191130T235959&p0=1440&msg=Fine+submission&font=sanserif&csz=1)
 
-## Come partecipare
+## How to participate
 
-Compilare il form di [registrazione al contest](https://docs.google.com/forms/d/e/1FAIpQLScMkgG15PwcxMrNXitDg-dn_H0Sw2HMTImETWRzr2d_qWQm6w/viewform) ed iscriversi sul gruppo [Discord](https://discord.gg/KeHPnSa)
+Fill the [registration to contest](https://docs.google.com/forms/d/e/1FAIpQLScMkgG15PwcxMrNXitDg-dn_H0Sw2HMTImETWRzr2d_qWQm6w/viewform) form and subscribe to our [Discord](https://discord.gg/KeHPnSa) channel.
 
 ## Status
 
-- [31 Ottobre 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191031T00&p0=1440&msg=Inizio+registrazioni&font=sanserif&csz=1) - Inizio registrazioni
-- [7 Novembre 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191107T235959&p0=1440&msg=Chiusura+registrazioni&font=sanserif&csz=1) - Chiusura registrazioni
-- [22 Novembre 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191122T000000&p0=1440&msg=Inizio+submission&font=sanserif&csz=1) - Inizio submission
-- [30 Novembre 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191130T235959&p0=1440&msg=Fine+submission&font=sanserif&csz=1) - Fine submission
-- [1 Dicembre 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191201T000000&p0=1440&msg=Inizio+valutazione&font=sanserif&csz=1) - Inizio valutazione
-- [15 Dicembre 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191215T235959&p0=1440&msg=Fine+valutazione&font=sanserif&csz=1) - Fine valutazione
-- [16 Dicembre 2019 15:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191216T140000&p0=1440&msg=Comunicazione+risultati&font=sanserif&csz=1) - Comunicazione risultati
+- [October 31st 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191031T00&p0=1440&msg=Inizio+registrazioni&font=sanserif&csz=1) - Start registration 
+- [November 7th 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191107T235959&p0=1440&msg=Chiusura+registrazioni&font=sanserif&csz=1) - Close registration
+- [November 22nd 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191122T000000&p0=1440&msg=Inizio+submission&font=sanserif&csz=1) - Start submission
+- [November 30th 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191130T235959&p0=1440&msg=Fine+submission&font=sanserif&csz=1) - End submission
+- [December 1st 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191201T000000&p0=1440&msg=Inizio+valutazione&font=sanserif&csz=1) - Evaluation start
+- [December 15th 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191215T235959&p0=1440&msg=Fine+valutazione&font=sanserif&csz=1) - Evaluation end
+- [December 16th 2019 15:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191216T140000&p0=1440&msg=Comunicazione+risultati&font=sanserif&csz=1) - Results announcement
 
-## Partecipati approvati
+## Approved participants
 
-Totale: `0`
-Richieste: `0`
-Approvati: `0`
+Total: `0`
+Requests: `0`
+Approved: `0`
 
 | Wallet | Reward | Created at |
 | ------ | ------ | ---------- |
@@ -60,20 +60,20 @@ Approvati: `0`
 
 ---
 
-### Lista dei contest
+### List of contests
 
-Scopri gli altri contest attivi sulla categoria [Telegram](./README.md)
+Check out the other contests active on the category [Telegram](./ README.md)
 
-### Cos'è BitSong Contest?
+### What is BitSong Contest?
 
-Scopri cos'è [BitSong Contest](../README.md) e come premierà la propria community.
+Find out what [BitSong Contest](../ README.md) is and how it will reward its community.
 
-### Partecipa alla discussione
+### Participate in the discussion
 
-Iscriviti alla nostra community su [Discord](https://discord.gg/KeHPnSa) e rimani aggiornato su tutte gli argomenti relativi. Assicurati di controllare spesso i nostri canali per non perderti gli aggiornamenti!
+Join our community on [Discord](https://discord.gg/KeHPnSa) and stay updated on all related topics. Make sure you check our channels often so you don't miss out on updates!
 
 ### Disclaimer
 
-> L'iscrizione al form non implica l'approvazione automatica da parte nostra
+> Registration to the form does not imply automatic approval by us
 
-> Il programma contest è in fase di sperimentazione, può subire variazioni in qualsiasi momento e potrebbe essere necessario eseguire una procedura KYC/AML. Tutti i requisiti per l'approvazione saranno comunicati prima della endline. I soggetti partecipanti in questa fase, sono a conoscenza che potrebbero non ricevere i reward se le procedure di KYC/AML non siano approvati.
+> The contest program is being tested, it may change at any time and it may be necessary to perform a KYC/AML procedure. All approval requirements will be announced before the endline. The participants in this phase are aware that they may not receive the rewards if the KYC/AML procedures are not approved.
