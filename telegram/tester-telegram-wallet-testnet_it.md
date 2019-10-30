@@ -30,7 +30,7 @@ I candidati devono essere attivi ed avere un utilizzo regolare e quotidiano. E' 
 
 ## Come partecipare
 
-Compilare il form di [registrazione al contest]() ed iscriversi sul gruppo [Discord](https://discord.gg/KeHPnSa)
+Compilare il form di [registrazione al contest](https://docs.google.com/forms/d/e/1FAIpQLScMkgG15PwcxMrNXitDg-dn_H0Sw2HMTImETWRzr2d_qWQm6w/viewform) ed iscriversi sul gruppo [Discord](https://discord.gg/KeHPnSa)
 
 ## Status
 
