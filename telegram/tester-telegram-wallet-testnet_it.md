@@ -21,8 +21,8 @@ I candidati devono essere attivi ed avere un utilizzo regolare e quotidiano. E' 
 
 ## Premi
 
-- Premio totale: 20 000btsg
-- Premio per partecipante (approvato): 1 000btsg
+- Premio totale: `20 000btsg`
+- Premio per partecipante (approvato): `1 000btsg`
 
 ## Inizio e termine
 
