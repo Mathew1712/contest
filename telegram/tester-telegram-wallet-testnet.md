@@ -62,15 +62,15 @@ Approved: `0`
 
 ### List of contests
 
-Check out the other contests active on the category [Telegram](./ README.md)
+Check out the other contests active on the category [Telegram] (./ README.md)
 
 ### What is BitSong Contest?
 
-Find out what [BitSong Contest](../ README.md) is and how it will reward its community.
+Find out what [BitSong Contest] (../ README.md) is and how it will reward its community.
 
 ### Participate in the discussion
 
-Join our community on [Discord](https://discord.gg/KeHPnSa) and stay updated on all related topics. Make sure you check our channels often so you don't miss out on updates!
+Join our community on [Discord] (https://discord.gg/KeHPnSa) and stay updated on all related topics. Make sure you check our channels often so you don't miss out on updates!
 
 ### Disclaimer
 
