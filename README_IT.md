@@ -19,7 +19,7 @@ In questo repository vogliamo elencare tutti i contest attivi e non dedicati al 
 ## General Qualifications
 
 - Puoi partecipare solo se non risiedi nelle seguenti nazioni:
-  - Afghanistan, Balkans, Belarus, Burma (Myanmar), Burundi, Cambodia, the Cayman Islands, Central African Republic, the People’s Republic of China, Cote D'Ivoire (Ivory Coast), Cuba, the Democratic Republic of Congo, Egypt, Guinea, Guinea-Bissau, Haiti, Iran, Iraq, Lebanon, Liberia, Libya, Maldives, Mali, Nicaragua, North Korea, Serbia, Somalia, Sudan and Darfur, South Sudan, Syria, Thailand, Tunisia, Turkey, the Crimea region of Ukraine, Ukraine/Russia, United States, Venezuela, Yemen, Zimbabwe
+  - Afghanistan, Balkans, Bangladesh, Belarus, Burma (Myanmar), Burundi, Cambodia, the Cayman Islands, Central African Republic, the People’s Republic of China, Cote D'Ivoire (Ivory Coast), Cuba, the Democratic Republic of Congo, Egypt, Guinea, Guinea-Bissau, Haiti, Indonesia, Iran, Iraq, Lebanon, Liberia, Libya, Maldives, Mali, Nicaragua, North Korea, Serbia, Somalia, Sudan and Darfur, South Sudan, Syria, Thailand, Tunisia, Turkey, the Crimea region of Ukraine, Ukraine/Russia, United States, Venezuela, Vietnam, Yemen, Zimbabwe
 - Oggetto a registrazione e completamento procedura KYC. Aggiorneremo tutti i partecipanti sulle procedure KYC non appena saranno disponibili.
 - I token sarano accreditati in genesi al lancio della Mainnet (data da annunciare), previa accettazione da parte del team e delle procedure KYC
 
