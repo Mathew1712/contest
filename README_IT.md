@@ -20,3 +20,6 @@ In questo repository vogliamo elencare tutti i contest attivi e non dedicati al 
 ## Partecipa alla discussione
 
 Iscriviti alla nostra community su [Discord](https://discord.gg/KeHPnSa) e rimani aggiornato su tutte gli argomenti relativi. Assicurati di controllare spesso i nostri canali per non perderti gli aggiornamenti!
+
+### Disclaimer
+> Il programma contest è in fase di sperimentazione, può subire variazioni in qualsiasi momento e potrebbe essere necessario eseguire una procedura KYC/AML. Tutti i requisiti per l'approvazione saranno comunicati prima della endline. I soggetti partecipanti in questa fase, sono a conoscenza che potrebbero non ricevere i reward se le procedure di KYC/AML non siano approvati.
