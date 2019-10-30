@@ -1,11 +1,11 @@
 # BitSong Contest
 🚀 Official BitSong Contest Repository
 
-In questo repository vogliamo elencare tutti i contest attivi e non dedicati al progetto open source BitSong e tutto il suo intero ecosistema.
+In this repository we want to list all the active and non-active contests dedicated to the BitSong open source project and its entire ecosystem.
 
 ## Contest
 - Blockchain *(tba)*
-- [Telegram [IT]](./telegram/README_IT.md)
+- [Telegram ](./telegram/README.md)
 - Web Design *(tba)*
 - Development *(tba)*
 - Social-Media *(tba)*
@@ -13,13 +13,13 @@ In questo repository vogliamo elencare tutti i contest attivi e non dedicati al 
 - Blog *(tba)*
 
 ## General Qualifications
-- Puoi partecipare solo se non risiedi nelle seguenti nazioni:
-  - Afghanistan, Balkans, Belarus, Burma (Myanmar), Burundi, Cambodia, the Cayman Islands, Central African Republic, the People’s Republic of China, Cote D'Ivoire (Ivory Coast), Cuba, the Democratic Republic of Congo, Egypt, Guinea, Guinea-Bissau, Haiti, Iran, Iraq, Lebanon, Liberia, Libya, Maldives, Mali, Nicaragua, North Korea, Serbia, Somalia, Sudan and Darfur, South Sudan, Syria, Thailand, Tunisia, Turkey, the Crimea region of Ukraine, Ukraine/Russia, United States, Venezuela, Yemen, Zimbabwe
-- Oggetto a registrazione e completamento procedura KYC. Aggiorneremo tutti i partecipanti sulle procedure KYC non appena saranno disponibili.
+- You can only participate if you do not reside in the following countries:
+  - Afghanistan, Balkans, Bangladesh, Belarus, Burma (Myanmar), Burundi, Cambodia, the Cayman Islands, Central African Republic, the People’s Republic of China, Cote D'Ivoire (Ivory Coast), Cuba, the Democratic Republic of Congo, Egypt, Guinea, Guinea-Bissau, Haiti, Iran, Iraq, Indonesia, Lebanon, Liberia, Libya, Maldives, Mali, Nicaragua, North Korea, Serbia, Somalia, Sudan and Darfur, South Sudan, Syria, Thailand, Tunisia, Turkey, the Crimea region of Ukraine, Ukraine/Russia, United States, Venezuela, Vietnam, Yemen, Zimbabwe
+- Subject to registration and completion of KYC procedure. We will update all participants on KYC procedures once they are available.
 
-## Partecipa alla discussione
+## Join the discussion
 
-Iscriviti alla nostra community su [Discord](https://discord.gg/KeHPnSa) e rimani aggiornato su tutte gli argomenti relativi. Assicurati di controllare spesso i nostri canali per non perderti gli aggiornamenti!
+Join our community on [Discord](https://discord.gg/KeHPnSa) and stay updated on all related topics. Make sure you check our channels often so you don't miss out on updates!
 
 ### Disclaimer
-> Il programma contest è in fase di sperimentazione, può subire variazioni in qualsiasi momento e potrebbe essere necessario eseguire una procedura KYC/AML. Tutti i requisiti per l'approvazione saranno comunicati prima della endline. I soggetti partecipanti in questa fase, sono a conoscenza che potrebbero non ricevere i reward se le procedure di KYC/AML non siano approvati.
+> The contest program is being tested, it may change at any time and it may be necessary to perform a KYC/AML procedure. All approval requirements will be announced before the endline. The participants in this phase are aware that they may not receive the rewards if the KYC/AML procedures are not approved.
