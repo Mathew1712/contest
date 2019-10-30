@@ -1,5 +1,5 @@
 # Telegram Contest
-Lista di tutti i contest attivi e non relativi al progetto open-source BitSong
+Lista di tutti i contest attivi e non, relativi al progetto open-source BitSong
 
 ## Lista dei contest
 - [Tester Telegram Wallet (testnet) [IT]](./tester-telegram-wallet-testnet_it.md)
