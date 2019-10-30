@@ -5,7 +5,7 @@ In this repository we want to list all the active and non-active contests dedica
 
 ## Contest
 - Blockchain *(tba)*
-- [Telegram ](./telegram/README.md)
+- [Telegram ](./telegram/README_IT.md)
 - Web Design *(tba)*
 - Development *(tba)*
 - Social-Media *(tba)*
