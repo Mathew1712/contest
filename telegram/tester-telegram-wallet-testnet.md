@@ -36,7 +36,7 @@ Fill the [registration to contest](https://docs.google.com/forms/d/e/1FAIpQLScMk
 
 ## Status
 
-- [October 31st 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191031T00&p0=1440&msg=Inizio+registrazioni&font=sanserif&csz=1) - Start registration 
+- [October 31st 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191031T00&p0=1440&msg=Inizio+registrazioni&font=sanserif&csz=1) - Start registration
 - [November 7th 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191107T235959&p0=1440&msg=Chiusura+registrazioni&font=sanserif&csz=1) - Close registration
 - [November 22nd 2019 00:00UTC](https://www.timeanddate.com/countdown/launch?iso=20191122T000000&p0=1440&msg=Inizio+submission&font=sanserif&csz=1) - Start submission
 - [November 30th 2019 23:59UTC](https://www.timeanddate.com/countdown/launch?iso=20191130T235959&p0=1440&msg=Fine+submission&font=sanserif&csz=1) - End submission
@@ -62,15 +62,15 @@ Approved: `0`
 
 ### List of contests
 
-Check out the other contests active on the category [Telegram] (./ README.md)
+Check out the other contests active on the category [Telegram](./README.md)
 
 ### What is BitSong Contest?
 
-Find out what [BitSong Contest] (../ README.md) is and how it will reward its community.
+Find out what [BitSong Contest](../README.md) is and how it will reward its community.
 
 ### Participate in the discussion
 
-Join our community on [Discord] (https://discord.gg/KeHPnSa) and stay updated on all related topics. Make sure you check our channels often so you don't miss out on updates!
+Join our community on [Discord](https://discord.gg/KeHPnSa) and stay updated on all related topics. Make sure you check our channels often so you don't miss out on updates!
 
 ### Disclaimer
 
