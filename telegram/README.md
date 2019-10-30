@@ -6,7 +6,7 @@ List of all active and non-active contests related to the open-source project [B
 
 ## Contests List
 
-- [Tester Telegram Wallet (testnet) [IT]](./tester-telegram-wallet-testnet.md)
+- [Tester Telegram Wallet (testnet) [EN]](./tester-telegram-wallet-testnet.md)
 
 ### What is BitSong Contest?
 
