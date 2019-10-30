@@ -10,7 +10,7 @@ Lista di tutti i contest attivi e non, relativi al progetto open-source [BitSong
 
 ### Cos'è BitSong Contest?
 
-Scopri cos'è [BitSong Contest](../README.md) e come premierà la propria community.
+Scopri cos'è [BitSong Contest](../README_IT.md) e come premierà la propria community.
 
 ### Join discussions
 
