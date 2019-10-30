@@ -2,6 +2,8 @@
 
 🚀 Official BitSong Contest Repository
 
+[EN](./README.md) | [IT](./README_IT.md)
+
 In questo repository vogliamo elencare tutti i contest attivi e non dedicati al progetto open source BitSong e tutto il suo intero ecosistema.
 
 ## Contest

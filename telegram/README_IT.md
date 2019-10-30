@@ -1,5 +1,7 @@
 # Telegram Contest
 
+[EN](./README.md) | [IT](./README_IT.md)
+
 Lista di tutti i contest attivi e non, relativi al progetto open-source [BitSong](https://github.com/bitsongofficial)
 
 ## Lista dei contest

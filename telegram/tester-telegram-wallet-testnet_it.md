@@ -1,5 +1,7 @@
 # Tester Telegram Wallet (testnet)
 
+[EN](./tester-telegram-wallet-testnet.md) | [IT](./tester-telegram-wallet-testnet_it.md)
+
 Testa il BitSong Telegram Wallet [TODO: link], scopri bug, apri issues, suggerisci nuove funzionalità.
 
 **Da provare**
