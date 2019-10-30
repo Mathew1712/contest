@@ -8,7 +8,7 @@ List of all active and non-active contests related to the open-source project [B
 
 ### What is BitSong Contest?
 
-Find out what is [BitSong Contest](../README_IT.md) and how it will reward its community.
+Find out what is [BitSong Contest](../README.md) and how it will reward its community.
 
 ### Join discussions
 
